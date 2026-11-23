@@ -17,3 +17,6 @@ The game now includes a separate SandBox workbench for physics, chemistry, atomi
 
 
 The Activities board adds 19 guided challenges across orbits, chemistry, cosmic events, the particle accelerator, fission, the Life Lab, and Academy/Forge. Completing activities awards Mastery Points and progress saves on the device.
+
+
+Chemistry includes a cleaner grouped catalog and a Reaction Bench with balanced water, carbon dioxide, salt, and ammonia recipes. Reagent stock and the reaction journal save locally; reaction products appear in the universe.
