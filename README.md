@@ -11,3 +11,6 @@ This is a ready-to-publish copy of the game. The website entry point is `index.h
 
 After the first setup, future pushes to `main` publish automatically.
 
+## New SandBox and online chat
+
+The game now includes a separate SandBox workbench for physics, chemistry, atomic and nuclear experiments, and a particle accelerator. Invite-only chat uses PeerJS over WebRTC with short room codes; messages are temporary and are not stored. Chat requires the PeerJS script and connection service to be reachable, which school networks may restrict.
